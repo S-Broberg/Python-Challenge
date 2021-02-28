@@ -1,0 +1,11 @@
+Total Months: 86
+Total: 38382578 
+Average Change : 446309
+Greatest Increase : ['Sep-16', '768450']
+Greatest Decrease: ['Apr-10', '-69417']
+Total Votes:1048576 
+Khan: 661583 votes 63.0934% 
+Correy: 209046 votes 19.936% 
+Li: 146360 votes 13.957% 
+O'Tooley:31586 votes 3.012% 
+Winner: Khan
